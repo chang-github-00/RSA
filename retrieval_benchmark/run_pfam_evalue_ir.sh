@@ -1,0 +1,1 @@
+python pfam_retrieval_evalue.py --faiss_index ../retrieval-db/pfam.index --dstore_seqs ../retrieval-db/pfam_seq.txt --dstore_labels ../retrieval-db/pfam_label.txt --dstore_fvecs ../retrieval-db/pfam_vectors
