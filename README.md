@@ -5,8 +5,9 @@
 Code for paper [**Retrieved Sequence Augmentation for Protein Representation Learning**](to-be-added). Protein language models have excelled in a variety of tasks, ranging from structure prediction to protein engineering. However, proteins are highly diverse in functions and structures, and current state-of-the-art models including the latest version of AlphaFold rely on Multiple Sequence Alignments (MSA) to feed in the evolutionary knowledge. Despite their success, heavy computational overheads, as well as the de novo and orphan proteins remain great challenges in protein representation learning. In this work, we show that MSAaugmented models inherently belong to retrieval-augmented methods. Motivated by this finding, we introduce **Retrieved Sequence Augmentation (RSA)** for protein representation learning without additional alignment or pre-processing. RSA links query protein sequences to a set of sequences with similar structures or properties in the database and combines these sequences for downstream prediction. 
 
 
-
-
+|   | |
+|--|--|
+| <img src="img/rsa_main.jpg"> | <img src="img/speed.jpg"> |
 
 
 
