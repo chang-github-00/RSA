@@ -28,7 +28,7 @@ Code for paper [**Retrieved Sequence Augmentation for Protein Representation Lea
 
    RSA-Transformer can run on a single RTX3090 ti GPU. 
 
-2. Install environment based on [instructions](#Install environment).
+2. Install environment based on [instructions](#install-environment).
 
 3. Download the index files of Pfam from [google drive](https://drive.google.com/file/d/17gARm6jnroFQU1sDIVhskPP23VTqe1JI/view?usp=share_link) into folder */retrieval-db*. 
 
