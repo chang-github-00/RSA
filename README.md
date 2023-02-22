@@ -14,7 +14,7 @@ Code for paper [**Retrieved Sequence Augmentation for Protein Representation Lea
 ## Repo Features
 
 - support **RSA** model, as a **FASTER and ON-THE-FLY Processing** alternative to MSA-based models. 
-- support data-preprocessing ([msa construction](https://github.com/chang-github-00/RSA#building-msa-features-for-tape), [retrieval database construction](https://github.com/chang-github-00/RSA#retrieval-database-preparation)).
+- support data-preprocessing ([msa construction](#building-msa-features-for-tape), [retrieval database construction](#retrieval-database-preparation)).
 - support baselines for protein function/structure prediction (transformers, ProtBert, MSA Transformer, and Potts Model).
 - support benchmarks for protein function/structure prediction (including [TAPE](https://tape-benchmark.com/) and  [PEER](https://github.com/DeepGraphLearning/PEER_Benchmark)).
 
@@ -28,7 +28,7 @@ Code for paper [**Retrieved Sequence Augmentation for Protein Representation Lea
 
    RSA-Transformer can run on a single RTX3090 ti GPU. 
 
-2. Install environment based on [instructions](https://github.com/chang-github-00/RSA#Install environment).
+2. Install environment based on [instructions](#Install environment).
 
 3. Download the index files of Pfam from [google drive](https://drive.google.com/file/d/17gARm6jnroFQU1sDIVhskPP23VTqe1JI/view?usp=share_link) into folder */retrieval-db*. 
 
